@@ -1,0 +1,22 @@
+{
+  "name": "asad-task-scheduler",
+  "version": "1.0.0",
+  "description": "Task Scheduler is a simple JavaScript package that allows you to schedule and manage tasks within your Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karina-asad/task-scheduler.git"
+  },
+  "dependencies": {
+    "asad-data-validator": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karina-asad/task-scheduler/issues"
+  },
+  "homepage": "https://github.com/karina-asad/task-scheduler#readme"
+}
